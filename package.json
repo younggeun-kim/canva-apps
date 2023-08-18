@@ -2,7 +2,7 @@
   "name": "canva-apps-sdk-starter-kit",
   "description": "A boilerplate for creating Canva Apps.",
   "engines": {
-    "node": "^18",
+    "node": "^20",
     "npm": "^9"
   },
   "scripts": {
