@@ -3,6 +3,7 @@
   "description": "A boilerplate for creating Canva Apps.",
   "engines": {
     "node": "^20",
+    
     "npm": "^9"
   },
   "scripts": {
