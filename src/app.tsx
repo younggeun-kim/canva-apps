@@ -20,7 +20,7 @@ export const App = () => {
           reopen the app in the editor to preview the changes.
         </Text>
         <Button variant="primary" onClick={onClick} stretch>
-          Do something cool
+          Do something codddsf
         </Button>
       </Rows>
     </div>
