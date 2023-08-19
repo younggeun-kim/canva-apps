@@ -3,9 +3,6 @@
   "description": "A boilerplate for creating Canva Apps.",
   "engines": {
     "node": "^20",
-
-    
-    
     "npm": "^9"
   },
   "scripts": {
@@ -29,6 +26,7 @@
     "@canva/error": "./sdk/error",
     "@canva/preview": "./sdk/preview",
     "@canva/user": "./sdk/user",
+    "@chakra-ui/react": "^2.8.0",
     "clsx": "^1.2.1",
     "react": "^18.1.0",
     "react-dom": "^18.1.0"
